@@ -1,5 +1,5 @@
-What I have learned so far:
-1. Command Line
-2. HTML elements and HTML5 updates
-3. CSS elements and CSS3 updates
-4. Git/GitHub
+Things I have learned so far from Bloc:
+   1. Command Line
+   2. HTML/HTML5 fundamentals
+   3. CSS/CSS3   fundamentals
+   4. Git/GitHub
